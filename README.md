@@ -77,5 +77,5 @@ https://drive.google.com/file/d/1F6ZbstDyoPSWdYyN22_BxbqsONL1i52E/view?usp=drive
 - Tanish Kotian
 - Darshil Zade
 - Ameya Tappe
-- Ayush Gavha;e
+- Ayush Gavhale
 - Sanket Madhekar
