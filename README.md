@@ -70,7 +70,7 @@ https://drive.google.com/file/d/1F6ZbstDyoPSWdYyN22_BxbqsONL1i52E/view?usp=drive
 - The trained model `best.pt` is included for direct usage.
 - Make sure Python and pip are installed.
 
----
+----
 
 ## 👨‍💻 Author
 - Atharva Surange
