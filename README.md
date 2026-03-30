@@ -54,7 +54,7 @@ uvicorn main:app --reload
 👉 Backend will run at:
 http://127.0.0.1:8000
 
----
+---- 
 
 ### 3️⃣ Run Frontend
 Just open:frontend/index.html
